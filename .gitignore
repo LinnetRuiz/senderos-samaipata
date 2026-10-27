@@ -1,0 +1,9 @@
+# TODO: lista aquí lo que NO debe subirse (pista: la carpeta de fotos originales pesa 12 MB)
+originales/
+img/originales/
+*.zip
+*.rar
+Thumbs.db
+.DS_Store
+.vscode/
+.env
